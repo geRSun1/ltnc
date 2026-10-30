@@ -1,0 +1,16 @@
+# Bỏ qua các file biên dịch và thư mục build của .NET
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Bỏ qua cấu hình và cache của Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Bỏ qua file gói NuGet nếu có
+[Pp]ackages/
+*.nupkg
